@@ -22,7 +22,7 @@ Alcune note:
 - la segnalazione non verrà fatta se l'**accuratezza GPS è superiore a 15 metri**;
 - associa **Twitter** come applicazione di **default** di **condivisione**.
 
-## Obiettivo di fondo
+## Obiettivi di fondo
 
 Sono due gli obiettivi principali:
 
