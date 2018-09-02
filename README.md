@@ -19,7 +19,8 @@ Alcune note:
 
 - è pensata per essere **usata a caldo**, nel momento in cui vedi qualcosa da segnalare;
 - richiede l'accesso alla **fotocamera** e al **sensore GPS**;
-- la segnalazione non verrà fatta se l'**accuratezza GPS è superiore a 15 metri**.
+- la segnalazione non verrà fatta se l'**accuratezza GPS è superiore a 15 metri**;
+- associa **Twitter** come applicazione di **default** di **condivisione**.
 
 ## Obiettivo di fondo
 
