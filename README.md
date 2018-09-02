@@ -9,7 +9,7 @@ A Palermo uno dei modi per farle alla RAP - l'azienda che gestisce in città la 
 - inserirà l'**URL** a una **mappa** con le **coordinate geografiche**;
 - allegherà la **foto**.
 
-Tu scrivi soltanto "Segnalo abbandono di rifiuti", fa la foto e tutto il resto lo fa Twitter2RAP (vedi sotto)
+Tu scrivi ad esempio soltanto "Segnalo abbandono di rifiuti", fai la foto e tutto il resto lo farà Twitter2RAP (vedi sotto)
 
 ![](./risorse/tw2rap.png).
 
