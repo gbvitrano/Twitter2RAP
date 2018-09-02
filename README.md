@@ -27,6 +27,6 @@ Alcune note:
 Sono due gli obiettivi principali:
 
 - fare in modo che sia **facile**, **rapido** e **completo** per i cittadini fare queste segnalazioni;
-- fare in modo che alla RAP arrivino dei messaggi con informazioni aeguate per poter fare la valutazione delle segnalazioni ricevute.
+- fare in modo che alla RAP arrivino dei messaggi con **informazioni adeguate** per poter fare la **valutazione** delle segnalazioni ricevute e **agire** di conseguenza.
 
 È il cosidetto **_Win_**, **_Win_**, perché i vantaggi sono per tutti.
