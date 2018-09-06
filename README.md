@@ -9,7 +9,7 @@ A Palermo uno dei modi per farle alla [**RAP**](http://www.rapspa.it/) - l'azien
 - inserirà l'**URL** a una **mappa** con le **coordinate geografiche**;
 - allegherà la **foto**.
 
-Tu scriverai ad esempio soltanto "Segnalo abbandono di rifiuti", farai la foto e a tutto il resto ci penserà **Twitter2RAP** (vedi sotto).
+Scriverai (ad esempio) soltanto "Segnalo abbandono di rifiuti", farai la foto e a tutto il resto ci penserà **Twitter2RAP** (vedi sotto).
 
 [![](./risorse/tw2rap.png)](https://play.google.com/store/apps/details?id=appinventor.ai_aborruso.twittoAllaRAP_checkpoint1).
 
