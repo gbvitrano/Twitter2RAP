@@ -18,7 +18,7 @@ Uno script che calcola il numero di segnalazioni (app tw2RAP) per ogni quartieri
 
 Uno script che realizza vari file CSV a partire dai dati di output dello script rap.sh:
 
-* appRAPvalid.CSV - ripulisce le segnalazioni non valide;
+* appRAPvalid.CSV - ripulisce le segnalazioni non valide (geograficamente);
 * appRAPvalidAperta - estrae tutte le segnalazioni con attibuti _stato_ uguale a `aperta`
 * appRAPvalidAperta - estrae tutte le segnalazioni con attibuti _stato_ uguale a `chiusa`
 * appRAPcount_quart - estrae il numero di segnalazioni per ogni quartieri di Palermo;
