@@ -4,7 +4,7 @@ Ecco alcuni script usati in questo progetto.
 
 ## rap.sh
 
-Uno script che recupera le segnalazioni fatte a RAP, usando l'app pubblicata dall'azienda, a partire dal primo gennaio 2018.
+Uno script che recupera le segnalazioni inviate a RAP tramite l'app pubblicata dall'azienda. Nota bene: solo quelle a partire dal primo gennaio 2018.
 
 I dati sono estratti da [questa pagina](http://www.rapspaservizi.it/develop1/bastaundito/bastaundito_dev/mappa) e aggiornati settimanalmente.
 
