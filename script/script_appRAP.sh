@@ -20,4 +20,4 @@ ogr2ogr -f CSV appRAPcount_quart.CSV -dialect sqlite db_appRAP.sqlite \
 
 # source URL csv: https://query.data.world/s/c2zvqyw4d7yrzq3fswaka4t6cktc2q
 ogr2ogr -f CSV appRAPcount_quart_normalizz.CSV -dialect sqlite db_appRAP.sqlite \
--sql "SELECT v.data,v.quartiere,v.nro, CAST (CAST (v.nro as FLOAT)/(CAST (p.F as FLOAT)+CAST (p.M as FLOAT)) AS FLOAT)*100 as percent FROM (SELECT date('now')as data,denominazi AS quartiere, count(*) as nro FROM (SELECT t.*, MakePoint (CAST (longitude AS float),CAST (latitude AS float)) as geometry FROM segnalazioniAppRAP t) g, quartieri q WHERE st_contains (q.geometry,g.geometry) GROUP BY 2 ) v JOIN "popMF_quart_2014" p using (quartiere) order by norma desc"
+-sql "SELECT v.data,v.quartiere,v.nro, CAST (CAST (v.nro as FLOAT)/(CAST (p.F as FLOAT)+CAST (p.M as FLOAT)) AS FLOAT)*100 as norma FROM (SELECT date('now')as data,denominazi AS quartiere, count(*) as nro FROM (SELECT t.*, MakePoint (CAST (longitude AS float),CAST (latitude AS float)) as geometry FROM segnalazioniAppRAP t) g, quartieri q WHERE st_contains (q.geometry,g.geometry) GROUP BY 2 ) v JOIN "popMF_quart_2014" p using (quartiere) order by norma desc"
