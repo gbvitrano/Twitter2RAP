@@ -52,6 +52,8 @@ paste -d , dati.csv "$cartella"/coords.txt >"$cartella"/output.csv
 
 mv "$cartella"/output.csv "$cartella"/segnalazioniAppRAP.csv
 
+# aggiungi un colonna con la data formattata in modo standard
+mlr -I --csv put '$datetime = strftime(strptime($data, "%d/%m/%Y %H:%M:%S"),"%Y-%m-%dT%H:%M:%SZ")' "$cartella"/segnalazioniAppRAP.csv
 
 # faccio l'upload su data.world (leggo la API KEY da config.txt)
 source "$cartella"/config.txt
