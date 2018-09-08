@@ -79,7 +79,9 @@
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="303.74167"
-       width="169.33333" />
+       width="169.33333"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <image
        y="-19.133265"
        x="-177.02176"
@@ -88,14 +90,18 @@
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="304.1832"
-       width="171.10306" />
+       width="171.10306"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44325608;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect863"
        width="170.65807"
        height="303.74167"
        x="-176.79926"
-       y="-18.9125" />
+       y="-18.9125"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g892"
        transform="translate(-38.553571,-1.5119033)"
